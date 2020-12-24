@@ -2,4 +2,8 @@
 
 An attempt to convert parts of the Modular samples library to Logic's Alchemy.
 
-[Patreon](https://www.patreon.com/modularsamples) - [Buy an SSD](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+[# Disks
+
+[
+![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+](https://gum.co/modularsamples-drives)
